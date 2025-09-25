@@ -1,59 +1,46 @@
-<!--
-╔══════════════════════════════════════════╗
-║           README - Higor Souza            ║
-╚══════════════════════════════════════════╝
--->
+Higor Souza
+🌎 Campinas, SP | 21 anos
+👨‍💻 Programador com 5 anos de experiência | 2 anos no mercado
 
-# 👋 Olá, eu sou o Higor Souza
+🚀 Sobre Mim
+Sou apaixonado por tecnologia e desenvolvimento, focado principalmente em desafios de back-end, APIs RESTful e integrações de bancos de dados, mas explorando cada vez mais o universo front-end com frameworks modernos. Adoro aprender soluções novas, otimizar processos e construir aplicações robustas e escaláveis sempre focadas em uma boa experiência do usuário.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="150" />
-</p>
+🛠️ Habilidades
+Back-End:
 
-🌎 Campinas, SP | 21 anos  
-👨‍💻 Programador full stack com 5 anos de trajetória, 2 anos de experiência profissional  
+Node.js | Express | Firebase Functions
 
----
+Desenvolvimento de APIs RESTful
 
-## 🚀 Sobre Mim
+C# (WinForms) – conhecimento básico
 
-Sou um desenvolvedor apaixonado que ama criar soluções eficientes, escaláveis e com foco no usuário. Tenho um background sólido em back-end e estou expandindo meu conhecimento em front-end moderno.
+Front-End:
 
----
+React Native (nível intermediário)
 
-## 🛠️ Minhas Habilidades Técnicas
+Iniciando com React Web
 
-| Back-End                   | Front-End                    | Bancos de Dados              |
-|----------------------------|------------------------------|-----------------------------|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) Express, Firebase Functions | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) React Native (Intermediário) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) MongoDB        |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) Conhecimento básico em WinForms  | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) Iniciando estudos com React para Web | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) MySQL           |
-|                             | HTML | CSS | JavaScript |                      | ![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=black) Firebase        |
-|                             |                              | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) SQLite          |
-|                             |                              | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) SQL Server |
+HTML, CSS, JavaScript
 
----
+Bancos de Dados:
 
-## 💼 Experiência Profissional
+MongoDB | Firebase | MySQL
 
-- 5 anos de experiência com programação  
-- 2 anos atuando profissionalmente como desenvolvedor júnior Full Stack  
-- Projetos com foco em APIs RESTful, integração com bancos NoSQL e SQL, além de aplicações móveis em React Native
+SQLite | SQLServer | outros bancos relacionais e NoSQL
 
----
+💼 Experiência
+5 anos de prática em programação
 
-## 🎯 Em Busca de...
+2 anos atuando na área como desenvolvedor júnior full stack
 
-Novos desafios para crescer como desenvolvedor full stack e contribuir com times inovadores, com foco em qualidade, boas práticas e aprendizado contínuo.
+Participação em times multidisciplinares e projetos variados, sempre priorizando código limpo, entrega ágil e clareza nas interfaces
 
----
+🎯 Buscando
+Atualmente em transição do mobile para o front-end web, sempre aberto a oportunidades de colaborar em projetos inovadores e equipes que valorizam a troca de conhecimento.
 
-## 📫 Contato
+📫 Contato
+Linkedin: 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-souza-555967201)  
-✉️ Email: higorhenry102@gmail.com
+Email: higorhenry102@gmail.com
 
----
-
-<p align="center">
-  <i>Obrigado por visitar meu perfil! Vamos criar coisas incríveis juntos! 🚀</i>
-</p>
+Obrigado por visitar meu perfil! Vamos construir juntos aplicações incríveis!
